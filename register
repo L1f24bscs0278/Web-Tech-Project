@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <title>Register | HireLens</title>
+</head>
+<body>
+
+  <header>
+    <h2>HireLens</h2>
+    <nav>
+      <a href="index.html">Home</a> |
+      <a href="media.html">Media</a> |
+      <a href="services.html">Services</a> |
+      <a href="portfolio.html">Portfolio</a> |
+      <a href="contact.html">Contact</a> |
+      <a href="register.html">Register</a>
+    </nav>
+    <hr>
+  </header>
+
+  <main>
+
+    <section>
+      <p><small>Recruiter account</small></p>
+      <h1>Create your HireLens account</h1>
+      <p>Set up an account to upload resumes, paste a job description and get ranked candidates with a score breakdown.</p>
+      <ul>
+        <li>See matched and missing skills for every candidate</li>
+        <li>Use blind review to hide names and contact details</li>
+        <li>Rank a batch of resumes in minutes</li>
+      </ul>
+    </section>
