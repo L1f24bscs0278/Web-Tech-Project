@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  
+ 
   <title>Register | HireLens</title>
 </head>
 <body>
@@ -31,7 +31,8 @@
         <li>Rank a batch of resumes in minutes</li>
       </ul>
     </section>
- <hr>
+
+    <hr>
 
     <section>
       <h2>Register</h2>
@@ -74,3 +75,40 @@
           <input type="password" id="password" name="password" minlength="8" placeholder="At least 8 characters" required><br>
           <small>Use 8 or more characters.</small>
         </p>
+
+        <p>
+          <label for="confirm">Confirm password</label><br>
+          <input type="password" id="confirm" name="confirm" minlength="8" placeholder="Repeat password" required>
+        </p>
+
+        <p>
+          <input type="checkbox" id="terms" name="terms" required>
+          <label for="terms">I agree to the <a href="#">terms of use</a> and <a href="#">privacy policy</a>.</label>
+        </p>
+
+        <p>
+          <button type="submit">Create account</button>
+        </p>
+
+      </form>
+
+      <p>Questions first? <a href="contact.html">Talk to the team</a></p>
+    </section>
+
+  </main>
+
+  <footer>
+    <hr>
+    <p>HireLens, university web technologies project</p>
+    <nav>
+      <a href="index.html">Home</a> /
+      <a href="media.html">Media</a> /
+      <a href="register.html">Register</a> /
+      <a href="services.html">Services</a> /
+      <a href="portfolio.html">Portfolio</a> /
+      <a href="contact.html">Contact</a>
+    </nav>
+  </footer>
+
+</body>
+</html>
