@@ -62,3 +62,74 @@
     </section>
 
     <hr>
+
+    <section>
+      <h2>Services at a glance</h2>
+      <table border="1" cellpadding="6">
+        <caption>Summary of HireLens services</caption>
+        <thead>
+          <tr>
+            <th scope="col">Service</th>
+            <th scope="col">What you get</th>
+            <th scope="col">Helps you</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Explained scores</td>
+            <td>Score out of 100 with matched and missing keywords</td>
+            <td>Understand each result</td>
+          </tr>
+          <tr>
+            <td>Weighted keyword matching</td>
+            <td>Scores built from skills, experience, education and formatting</td>
+            <td>Compare candidates fairly</td>
+          </tr>
+          <tr>
+            <td>Synonym-aware matching</td>
+            <td>Related terms counted as the same skill</td>
+            <td>Avoid missing good candidates</td>
+          </tr>
+          <tr>
+            <td>Blind review mode</td>
+            <td>Names and contact details hidden</td>
+            <td>Focus on skills</td>
+          </tr>
+          <tr>
+            <td>Candidate ranking</td>
+            <td>Ranked list for a batch of resumes</td>
+            <td>Save time</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <hr>
+
+    <section>
+      <h2>How to get started</h2>
+      <ol>
+        <li>Create a recruiter account on the <a href="register.html">Register</a> page.</li>
+        <li>Paste your job description and upload resumes.</li>
+        <li>Review the ranked candidates and their score breakdowns.</li>
+      </ol>
+      <p>Want to see how scoring works first? Read <a href="media.html">How HireLens works</a>, or <a href="contact.html">talk to the team</a>.</p>
+    </section>
+
+  </main>
+
+  <footer>
+    <hr>
+    <p>HireLens, university web technologies project</p>
+    <nav>
+      <a href="index.html">Home</a> /
+      <a href="media.html">Media</a> /
+      <a href="register.html">Register</a> /
+      <a href="services.html">Services</a> /
+      <a href="portfolio.html">Portfolio</a> /
+      <a href="contact.html">Contact</a>
+    </nav>
+  </footer>
+
+</body>
+</html>
