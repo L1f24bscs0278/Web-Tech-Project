@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Screening mockups from HireLens: sample rankings, score breakdowns and blind review examples.">
+  <title>Portfolio | HireLens</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h2>HireLens</h2>
+    <nav>
+      <a href="index.html">Home</a> |
+      <a href="media.html">Media</a> |
+      <a href="services.html">Services</a> |
+      <a href="portfolio.html">Portfolio</a> |
+      <a href="contact.html">Contact</a> |
+      <a href="register.html">Register</a>
+    </nav>
+    <hr>
+  </header>
+
+  <main>
+
+    <section>
+      <p><small>Screening mockups</small></p>
+      <h1>Portfolio</h1>
+      <p>These mockups show how HireLens screens resumes. Each example uses sample candidates and a sample job description.</p>
+    </section>
