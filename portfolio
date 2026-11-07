@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Screening mockups from HireLens: sample rankings, score breakdowns and blind review examples.">
-  <title>Portfolio | HireLens</title>
+  <meta name="description" content="What HireLens offers: explained scores, synonym-aware matching, blind review and weighted ranking for resume screening.">
+  <title>Services | HireLens</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -25,7 +25,111 @@
   <main>
 
     <section>
-      <p><small>Screening mockups</small></p>
-      <h1>Portfolio</h1>
-      <p>These mockups show how HireLens screens resumes. Each example uses sample candidates and a sample job description.</p>
+      <p><small>What HireLens offers</small></p>
+      <h1>Services</h1>
+      <p>HireLens helps recruiters screen resumes faster and understand every result. Each service below works on the same idea: match resumes to a job description and show the reasons behind the score.</p>
     </section>
+
+    <hr>
+
+    <section>
+      <h2>Our services</h2>
+
+      <article>
+        <h3>Explained scores</h3>
+        <p>Every candidate gets a score out of 100 with a clear breakdown. You can see which keywords matched and which are missing, so you know why a candidate ranked where they did.</p>
+      </article>
+
+      <article>
+        <h3>Weighted keyword matching</h3>
+        <p>HireLens finds the skills the job asks for and checks them against each resume. Skills, experience, education and formatting each count towards the final score.</p>
+      </article>
+
+      <article>
+        <h3>Synonym-aware matching</h3>
+        <p>Different resumes use different words for the same skill. HireLens treats JS and JavaScript as the same skill, so good candidates are not missed.</p>
+      </article>
+
+      <article>
+        <h3>Blind review mode</h3>
+        <p>Hide names and contact details while ranking, so candidates are compared on their skills and experience.</p>
+      </article>
+
+      <article>
+        <h3>Candidate ranking</h3>
+        <p>Upload a batch of resumes and get a ranked list, with the best matches at the top.</p>
+      </article>
+    </section>
+
+    <hr>
+
+    <section>
+      <h2>Services at a glance</h2>
+      <table border="1" cellpadding="6">
+        <caption>Summary of HireLens services</caption>
+        <thead>
+          <tr>
+            <th scope="col">Service</th>
+            <th scope="col">What you get</th>
+            <th scope="col">Helps you</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Explained scores</td>
+            <td>Score out of 100 with matched and missing keywords</td>
+            <td>Understand each result</td>
+          </tr>
+          <tr>
+            <td>Weighted keyword matching</td>
+            <td>Scores built from skills, experience, education and formatting</td>
+            <td>Compare candidates fairly</td>
+          </tr>
+          <tr>
+            <td>Synonym-aware matching</td>
+            <td>Related terms counted as the same skill</td>
+            <td>Avoid missing good candidates</td>
+          </tr>
+          <tr>
+            <td>Blind review mode</td>
+            <td>Names and contact details hidden</td>
+            <td>Focus on skills</td>
+          </tr>
+          <tr>
+            <td>Candidate ranking</td>
+            <td>Ranked list for a batch of resumes</td>
+            <td>Save time</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <hr>
+
+    <section>
+      <h2>How to get started</h2>
+      <ol>
+        <li>Create a recruiter account on the <a href="register.html">Register</a> page.</li>
+        <li>Paste your job description and upload resumes.</li>
+        <li>Review the ranked candidates and their score breakdowns.</li>
+      </ol>
+      <p>Want to see how scoring works first? Read <a href="media.html">How HireLens works</a>, or <a href="contact.html">talk to the team</a>.</p>
+    </section>
+
+  </main>
+
+  <footer>
+    <hr>
+    <p>HireLens, university web technologies project</p>
+    <nav>
+      <a href="index.html">Home</a> /
+      <a href="media.html">Media</a> /
+      <a href="register.html">Register</a> /
+      <a href="services.html">Services</a> /
+      <a href="portfolio.html">Portfolio</a> /
+      <a href="contact.html">Contact</a>
+    </nav>
+  </footer>
+
+</body>
+</html>
