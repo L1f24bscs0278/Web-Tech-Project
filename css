@@ -17,10 +17,25 @@
 *, *::before, *::after {
   box-sizing: border-box;
 }
-body { margin: 0; font: 400 15px/1.6 var(--font); color: var(--ink); background: var(--bg); }
-h1, h2, h3, p, ul, ol, figure { margin: 0; }
-h1 { font-size: clamp(30px, 5vw, 44px); line-height: 1.1; letter-spacing: -.02em; margin: 14px 0; }
-h2 { font-size: 22px; letter-spacing: -.01em; margin-bottom: 12px; }
+body {
+  margin: 0; font: 400 15px/1.6 var(--font);
+  color: var(--ink); 
+  background: var(--bg);
+}
+h1, h2, h3, p, ul, ol, figure {
+  margin: 0;
+}
+h1 {
+  font-size: clamp(30px, 5vw, 44px);
+  line-height: 1.1;
+  letter-spacing: -.02em;
+  margin: 14px 0;
+}
+h2 {
+  font-size: 22px;
+  letter-spacing: -.01em;
+  margin-bottom: 12px;
+}
 h3 { font-size: 15px; margin-bottom: 4px; }
 p { margin-bottom: 12px; }
 ul, ol { padding-left: 1.2rem; }
